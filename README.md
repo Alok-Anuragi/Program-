@@ -1,2 +1,2 @@
 # Program-
-software applications
+software application
